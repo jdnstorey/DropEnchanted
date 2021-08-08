@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DropEnchanted:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DropEnchanted_jar</output-path>
+    <root id="archive" name="DropEnchanted.jar">
+      <element id="module-output" name="DropEnchanted" />
+    </root>
+  </artifact>
+</component>
